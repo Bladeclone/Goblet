@@ -231,8 +231,8 @@ if (move != 0)
 
 x += hSpd;
 y += vSpd;
-
-
+view_xview = x - 210;
+view_yview = y - 230;
 </string>
           </argument>
         </arguments>
